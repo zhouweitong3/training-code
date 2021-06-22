@@ -1,0 +1,12 @@
+{
+    "EpubFont": "微软雅黑",
+    "Line": {
+        "Color": "fffeeb73"
+    },
+    "LinePen": {
+        "Color": "ff59c6ff",
+        "Width": 14
+    },
+    "ShowMode": 0,
+    "TextFrameFontSize": 4
+}
